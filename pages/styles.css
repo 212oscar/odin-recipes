@@ -1,0 +1,15 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: beige;
+}
+
+h1 {
+    color: brown;
+    font-size: 25px;
+}
+
+.recipe-title {
+    text-decoration: none;
+    color: brown;
+    font-size: 15px;
+}
